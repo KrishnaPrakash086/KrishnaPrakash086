@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnaprakash086&label=Profile%20views&color=0e75b6&style=flat" alt="krishnaprakash086" /> </p>
 
-- 🔭 I’m currently working on Project **Know My India, Sqaud_Hunt**
+- 🔭 I’m currently working on Project **Know My India, Social_Space_Zone**
 
 - 🌱 I’m currently learning **React Native,MongoDB**
 
-- ⚡ Fun fact **People think I am an introvert😂**
+- ⚡ Fun fact **People think I am an Introvert😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
