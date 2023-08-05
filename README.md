@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnaprakash086&label=Profile%20views&color=0e75b6&style=flat" alt="krishnaprakash086" /> </p>
 
-- 🔭 I’m currently working on Project **Know My India, social-space-zone**
+- 🔭 I’m currently working on Project **Yeh-Mera-India, Social-Space-Zone**
 
-- 🌱 I’m currently learning **React,MongoDB**
+- 🌱 I’m currently learning **React, Node, MongoDB**
 
 - ⚡ Fun fact **People think I am an Introvert😂**
 
