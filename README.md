@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on Project **Yeh-Mera-India, Social-Space-Zone**
 
-- 🌱 I’m currently learning **React, **
+- 🌱 I’m currently learning **React,PHP **
 
 - ⚡ Fun fact **People think I am an Introvert**
 
