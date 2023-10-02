@@ -25,7 +25,6 @@
 ## GitHub Trophies <picture>  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.webp" type="image/webp">  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" alt="🎯" width="32" height="32"></picture>
 ![](https://github-profile-trophy.vercel.app/?username=KrishnaPrakash086&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=krishnaprakash086&show_icons=true&locale=en" alt="krishnaprakash086"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnaprakash086&" alt="krishnaprakash086" /></p>
 
 
