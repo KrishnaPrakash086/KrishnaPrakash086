@@ -28,7 +28,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=krishnaprakash086&show_icons=true&locale=en" alt="krishnaprakash086"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnaprakash086&" alt="krishnaprakash086" /></p>
 
  <div align="center">
-<h1><picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32"> </picture> Thank you for visiting my profile🚀 <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32"></h1>
+<h1><picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32"> </picture> Thank you for visiting my profile! 🚀 <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32"></h1>
 </div>
 
 
